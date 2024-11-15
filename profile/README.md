@@ -1,4 +1,14 @@
 ![Background](https://raw.githubusercontent.com/vea-basement-lv/.github/refs/heads/main/8.png)
+---
+
+We are a team passionate about pushing the boundaries of science and technology through hands-on electronic projects. Currently working on:
+
+- **Robotics** 🤖: Mini sumo robots .
+- **Stratospheric Probes** 🎈: Exploring the edge of space.
+
+Whether you're here to collaborate, learn, or simply explore, we're excited to have you with us. Let's create something amazing together!
+
+---
 <!--
 
 **Here are some ideas to get you started:**
